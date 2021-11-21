@@ -1,13 +1,55 @@
 [{
     "id": 1,
-    "task": "Open To Do App",
+    "task": "Learn React",
     "deadline": "12/12/2021 T 11:59 CH",
     "complete": false
   },
   {
     "id": 2,
+    "task": "Create React app",
+    "deadline": "13/12/2021 T 11:59 CH",
+    "complete": false
+  },
+  {
+    "id": 3,
+    "task": "Buy milk",
+    "deadline": "14/12/2021 T 11:59 CH",
+    "complete": false
+  },
+  {
+    "id": 4,
+    "task": "Do homework",
+    "deadline": "15/12/2021 T 11:59 CH",
+    "complete": false
+  },
+  {
+    "id": 5,
+    "task": "Learn Redux",
+    "deadline": "16/12/2021 T 11:59 CH",
+    "complete": false
+  },
+  {
+    "id": 6,
+    "task": "Test React app",
+    "deadline": "17/12/2021 T 11:59 CH",
+    "complete": false
+  },
+  {
+    "id": 7,
     "task": "Fix 499 errors",
-    "deadline": "12/12/2021 T 11:59 CH",
+    "deadline": "18/12/2021 T 11:59 CH",
+    "complete": false
+  },
+  {
+    "id": 8,
+    "task": "Take out the trash",
+    "deadline": "19/12/2021 T 11:59 CH",
+    "complete": false
+  },
+  {
+    "id": 9,
+    "task": "Sleep",
+    "deadline": "20/12/2021 T 11:59 CH",
     "complete": false
   }
   ]

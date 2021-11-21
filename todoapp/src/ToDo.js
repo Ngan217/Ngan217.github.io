@@ -19,4 +19,4 @@ export const ToDo = ({todo, handleToggle }) => {
         </div>
     );
 };
-//<input id = "checkbox" type = "checkbox" checked= {todo.complete ? true : false}/>
+
