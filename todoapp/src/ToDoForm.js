@@ -29,6 +29,8 @@ export const ToDoForm = ({ addTask}) => {
             <label> Deadline : </label>
             <input value={userInput2} type="datetime-local" onChange={handleChange2}/>
             <button id = "submit" >Submit</button>
+            <br></br>
+            <br></br>
             </form>
         </div>
     );
